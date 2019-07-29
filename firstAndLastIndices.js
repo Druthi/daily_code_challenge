@@ -81,7 +81,15 @@ function firstAndLastIndices(arr, x){
   return ans;
 }
 
+/*
+Solution 1:
+Time complexity: O(n)
+Space: O(1)
 
+Solution 2:
+Time: O(log n)
+Space: O(1)
+*/
 
 
 
